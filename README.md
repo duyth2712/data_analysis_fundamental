@@ -1,2 +1,3 @@
 # data_analysis_fundamental
-Welcome to my project !
+1. Web Scarping ( Python )
+2. Data Visualization (Power BI)

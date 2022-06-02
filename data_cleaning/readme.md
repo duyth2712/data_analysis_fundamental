@@ -12,4 +12,4 @@
 
 Language: Python
 IDE: Jupyter Notebook
-src: https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction
+Dataset: https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction
